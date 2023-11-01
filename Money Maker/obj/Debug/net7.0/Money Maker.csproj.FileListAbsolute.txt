@@ -1,0 +1,14 @@
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\bin\Debug\net7.0\Money Maker.exe
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\bin\Debug\net7.0\Money Maker.deps.json
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\bin\Debug\net7.0\Money Maker.runtimeconfig.json
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\bin\Debug\net7.0\Money Maker.dll
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\bin\Debug\net7.0\Money Maker.pdb
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\obj\Debug\net7.0\Money Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\obj\Debug\net7.0\Money Maker.AssemblyInfoInputs.cache
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\obj\Debug\net7.0\Money Maker.AssemblyInfo.cs
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\obj\Debug\net7.0\Money Maker.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\obj\Debug\net7.0\Money Maker.dll
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\obj\Debug\net7.0\refint\Money Maker.dll
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\obj\Debug\net7.0\Money Maker.pdb
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\obj\Debug\net7.0\Money Maker.genruntimeconfig.cache
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Money Maker\obj\Debug\net7.0\ref\Money Maker.dll

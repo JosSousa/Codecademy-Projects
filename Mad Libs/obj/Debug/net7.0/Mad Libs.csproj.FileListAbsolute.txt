@@ -1,0 +1,14 @@
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\bin\Debug\net7.0\Mad Libs.exe
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\bin\Debug\net7.0\Mad Libs.deps.json
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\bin\Debug\net7.0\Mad Libs.runtimeconfig.json
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\bin\Debug\net7.0\Mad Libs.dll
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\bin\Debug\net7.0\Mad Libs.pdb
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\obj\Debug\net7.0\Mad Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\obj\Debug\net7.0\Mad Libs.AssemblyInfoInputs.cache
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\obj\Debug\net7.0\Mad Libs.AssemblyInfo.cs
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\obj\Debug\net7.0\Mad Libs.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\obj\Debug\net7.0\Mad Libs.dll
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\obj\Debug\net7.0\refint\Mad Libs.dll
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\obj\Debug\net7.0\Mad Libs.pdb
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\obj\Debug\net7.0\Mad Libs.genruntimeconfig.cache
+C:\Users\josue\OneDrive\Development-study\Codecademy\C#\Mad Libs\obj\Debug\net7.0\ref\Mad Libs.dll
